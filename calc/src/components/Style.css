@@ -17,3 +17,14 @@ button{
     font-size: 15px;
    width: 60px;
   }
+
+  input{
+
+    background-color:blanchedalmond;
+    color:black;
+    width: 210px;
+    text-align: right;
+    height: 50px;
+    width: 405px;
+    font-size: 45px;
+  }
