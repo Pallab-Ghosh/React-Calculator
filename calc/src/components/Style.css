@@ -7,6 +7,7 @@ button{
     cursor:pointer;
     color:black;
     font-size: 20px;
+    font-weight: bold;
   }
   
   table{
@@ -15,16 +16,38 @@ button{
     margin-top: 2px;
     margin-bottom: 1px;
     font-size: 15px;
-   width: 60px;
+    width: 60px;
+   
   }
 
   input{
 
-    background-color:blanchedalmond;
+    background-color:rgb(245, 241, 235);
     color:black;
     width: 210px;
     text-align: right;
     height: 50px;
     width: 405px;
     font-size: 45px;
+  }
+
+  #screen{
+    margin-top: 1px;
+  }
+
+  .App{
+        margin-top: 120px;
+        margin-bottom: 50px;
+        background-color: azure;
+  }
+
+
+  :root{
+    background-color:azure
+  }
+  
+
+  .sign{
+    background-color:orange;
+    color:black
   }
